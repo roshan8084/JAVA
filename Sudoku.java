@@ -101,7 +101,7 @@ public class Sudoku {
         {
             System.out.println("Sudoku is Not Exit:");
         }
-        System.out.println("Sudoku Game is Over:");
+    
     }
     
 }
